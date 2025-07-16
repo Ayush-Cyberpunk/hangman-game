@@ -22,7 +22,7 @@ Clone the repository:
 bash
 Copy
 Edit
-git clone https://github.com/your-username/hangman-game.git
+git clone https://github.com/Ayush-Cyberpunk/hangman-game.git
 cd hangman-game
 Run the game:
 
